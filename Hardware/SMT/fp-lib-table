@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name custom_sockets)(type KiCad)(uri "$(KIPRJMOD)/lib/custom_sockets.pretty")(options "")(descr ""))
+  (lib (name custom_sw)(type KiCad)(uri "$(KIPRJMOD)/lib/custom_sw.pretty")(options "")(descr ""))
+  (lib (name DPDT_FOOT_ONON_ALPHA_W13MM_D12MM_P5)(type KiCad)(uri "$(KIPRJMOD)/lib/DPDT_FOOT_ONON_ALPHA_W13MM_D12MM_P5.pretty")(options "")(descr ""))
+  (lib (name TRS635mmJack)(type KiCad)(uri "$(KIPRJMOD)/lib/TRS635mmJack.pretty")(options "")(descr ""))
+  (lib (name TS635mmJack)(type KiCad)(uri "$(KIPRJMOD)/lib/TS635mmJack.pretty")(options "")(descr ""))
+  (lib (name C&K_8_6mm_SPDT_ONON)(type KiCad)(uri "$(KIPRJMOD)/lib/C&K_8_6mm_SPDT_ONON.pretty")(options "")(descr ""))
+)
